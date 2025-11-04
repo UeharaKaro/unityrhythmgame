@@ -39,6 +39,14 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko
 파일들의 확장자는 위에서 제시한 것을 따라야 합니다.</br>
 </br>
 
+### osu!mania 4K 맵 변환하기
+osu!mania 4K 비트맵을 .sheet 파일로 변환할 수 있습니다:</br>
+```bash
+python3 osu2sheet.py beatmap.osu
+```
+자세한 사용법은 [USAGE.md](USAGE.md)를 참고하세요.</br>
+</br>
+
 ## 조작법
 방향키 - 곡 고르기 ( Arrow - Select music )</br>
 엔터 - 게임 시작 ( Enter - Start Game )</br>
